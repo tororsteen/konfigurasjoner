@@ -1,0 +1,23 @@
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt appendhistory autocd extendedglob nomatch notify
+unsetopt beep
+bindkey -v
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+#zstyle :compinstall filename '/home/tor/.zshrc'
+autoload -U colors && colors
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+if [ -f ~/.aliases ]
+	then
+		source ~/.aliases
+	else
+		echo "Ingen alias lasta fra fil"
+fi
+PROMPT="%{$fg_bold[magenta]%}%n@)%m %{$fg_bold[black]%}%(!.%1~.%~%{$reset_color%}%# "
+export EDITOR="vim"
+source /usr/share/doc/pkgfile/command-not-found.zsh
