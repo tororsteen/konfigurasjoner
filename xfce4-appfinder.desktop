@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=xfce4-appfinder
+GenericName=Meny
+Exec=/usr/bin/xfce4-appfinder
+Terminal=false
+Icon=/usr/share/icons/Windows-10-Icons/256x256/apps/xfce4-appfinder.png
+Type=Application
+
