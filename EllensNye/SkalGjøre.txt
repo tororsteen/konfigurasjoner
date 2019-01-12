@@ -1,0 +1,6 @@
+Installere ssh
+Installere mc
+Innstallere og konfigurere NFS
+Sjekke mot tors filliste
+Konfigurere zsh
+Konfigurere vim
