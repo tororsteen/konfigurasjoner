@@ -1,8 +1,0 @@
-# 12.12.20
-Server = http://mirror.neuf.no/archlinux/$repo/os/$arch
-Server = http://mirror.terrahost.no/linux/archlinux/$repo/os/$arch
-Server = http://archlinux.uib.no/$repo/os/$arch
-Server = http://mirrors.evowise.com/archlinux/$repo/os/$arch
-Server = https://mirror.neuf.no/archlinux/$repo/os/$arch
-Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
-Server = http://mirror.archlinux.no/$repo/os/$arch
