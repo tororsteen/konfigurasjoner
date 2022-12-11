@@ -1,0 +1,17 @@
+adobe-base-14-fonts
+autojump
+buku
+dropbox
+gcalcli
+inxi
+ncspot-git
+oh-my-zsh-git
+paps
+pikaur-git
+powerstat
+pyradio
+rofi-buku-git
+sakura
+thunar-dropbox
+vim-papercolor-git
+windows10-icon-theme
